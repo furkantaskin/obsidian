@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ffcddafcda7857a8",
+        "id": "c4fb3666857d70b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/Go/intro.md",
+            "file": "Development/JS/Giriş.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cdf381883d52b7e",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Go/intro.md",
+                "file": "Development/JS/Giriş.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Go/intro.md",
+                "file": "Development/JS/Giriş.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Go/intro.md"
+                "file": "Development/JS/Giriş.md"
               }
             }
           }
@@ -128,8 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffcddafcda7857a8",
+  "active": "c4fb3666857d70b3",
   "lastOpenFiles": [
-    "README.md"
+    "Development/JS/Javascript.info/JS Temelleri/JavaScript Temelleri.md",
+    "Development/JS/Javascript.info/JS Temelleri/Döngüler.md",
+    "Development/JS/Giriş.md",
+    "Development/JS/Javascript.info/Kod Kalitesi/Kod Yapısı.md",
+    "Development/JS/Javascript.info/Kod Kalitesi/Debug.md",
+    "Development/JS/Javascript.info/JS Temelleri/Özel Durumlar.md",
+    "Development/JS/Javascript.info/JS Temelleri/Fonksiyonlar.md",
+    "Development/JS/Javascript.info/JS Temelleri/Koşul İşlemleri.md",
+    "Development/JS/API Kullanımı.md",
+    "Development/React/Giriş.md"
   ]
 }
