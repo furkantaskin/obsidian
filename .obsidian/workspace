@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fb3666857d70b3",
+        "id": "8f3311620e9666c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/JS/Giriş.md",
+            "file": "Development/JS/Callback Fonksiyonları  ve Async-Await.md",
             "mode": "source",
             "source": true
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cdf381883d52b7e",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/JS/Giriş.md",
+                "file": "Development/JS/Callback Fonksiyonları  ve Async-Await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/JS/Giriş.md",
+                "file": "Development/JS/Callback Fonksiyonları  ve Async-Await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/JS/Giriş.md"
+                "file": "Development/JS/Callback Fonksiyonları  ve Async-Await.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4fb3666857d70b3",
+  "active": "8f3311620e9666c5",
   "lastOpenFiles": [
+    "Development/JS/ES6 Modül Sistemi.md",
+    "Development/React/1 - React Dom ve Virtual Dom.md",
+    "Development/JS/API Kullanımı.md",
+    "Development/React/Giriş.md",
+    "Development/JS/Giriş.md",
     "Development/JS/Javascript.info/JS Temelleri/JavaScript Temelleri.md",
     "Development/JS/Javascript.info/JS Temelleri/Döngüler.md",
-    "Development/JS/Giriş.md",
     "Development/JS/Javascript.info/Kod Kalitesi/Kod Yapısı.md",
     "Development/JS/Javascript.info/Kod Kalitesi/Debug.md",
-    "Development/JS/Javascript.info/JS Temelleri/Özel Durumlar.md",
-    "Development/JS/Javascript.info/JS Temelleri/Fonksiyonlar.md",
-    "Development/JS/Javascript.info/JS Temelleri/Koşul İşlemleri.md",
-    "Development/JS/API Kullanımı.md",
-    "Development/React/Giriş.md"
+    "Development/JS/Javascript.info/JS Temelleri/Özel Durumlar.md"
   ]
 }
