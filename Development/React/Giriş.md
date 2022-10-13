@@ -1,0 +1,1 @@
+React'a girmeden öncesinde temel Javascript bilgilerinin yerine oturtulması büyük önem arz etmektedir. Bunun için mümkünse [Javascript Info](https://javascript.info) üzerinden veya tuttuğum [[Development/JS/Giriş |Javascript Notları]] üzerinden de inceleyebilirsiniz
