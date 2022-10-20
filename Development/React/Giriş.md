@@ -6,3 +6,7 @@ React, bir sanal DOM kullanarak sistem üzerinde anlık güncellemeler yapabilme
 
 # Ne Zaman Kullanılmalı
 Eğer arayüz sürekli olarak bir değişime uğruyorsa ve arayüzde çok fazla manüpilasyon varsa React kullanılması uygundur. Çünkü React sanal bir DOM oluşturarak sayfa içinde sadece güncellenecek yeri güncelleyerek yoğun render performans sorunlarından biri kurtarır. 
+
+# Neler Gerekiyor
+
+React kullanırken öncelikle [[Development/JS/Giriş | JS Giriş]] ile başlayıp JS bilgimizi ilerletmemiz lazım. HTML/CSS ve JS bilgisi gerekecektir.

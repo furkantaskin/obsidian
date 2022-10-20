@@ -40,6 +40,21 @@ myArray.unshift(["birnevi", "farklı şeyler"]);
 
 ```
 
+
+`map()` kullanımı ile dizi içerisindeki tüm elemanlarda belirtilen fonksiyonu uygular. Örnek olarak elimizde bir dizinin tüm elemanlarının iki katını bulup yeni bir diziye basmak istedik. Bunu `.map()` metodu ile rahatça yapabiliriz. Mesela ^b65988
+
+```js
+const array1 = [1, 4, 9, 16];
+
+const map1 = array1.map(x => x * 2);
+
+console.log(map1);
+```
+
+^2891a3
+
+Buradaki çıktı [2,8,18,32] şeklinde olacaktır.
+
 ---
 
 # Fonksiyonlar
