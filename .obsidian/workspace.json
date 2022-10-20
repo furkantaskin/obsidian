@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3311620e9666c5",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "e0da24b721461e2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdaacf91e5552e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -36,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cdf381883d52b7e",
@@ -73,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,27 +126,41 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md"
+              }
+            }
+          },
+          {
+            "id": "927b07155b8f4456",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "8f3311620e9666c5",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bdaacf91e5552e74",
   "lastOpenFiles": [
-    "Development/JS/Callback Fonksiyonları  ve Async-Await.md",
-    "Development/JS/ES6 Modül Sistemi.md",
-    "Development/React/1 - React Dom ve Virtual Dom.md",
-    "Development/JS/API Kullanımı.md",
-    "Development/React/Giriş.md",
     "Development/JS/Giriş.md",
+    "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+    "^9c8c5e.md",
+    "Development/React/2 - Props/1 - Props Nedir.md",
     "Development/JS/Javascript.info/JS Temelleri/JavaScript Temelleri.md",
-    "Development/JS/Javascript.info/JS Temelleri/Döngüler.md",
-    "Development/JS/Javascript.info/Kod Kalitesi/Kod Yapısı.md",
-    "Development/JS/Javascript.info/Kod Kalitesi/Debug.md"
+    "Development/JS/Javascript.info/JS Temelleri/Fonksiyonlar.md",
+    "Development/React/1 - Componentler/1- Component Nedir.md",
+    "Development/React/1 - Componentler/2 - Component Oluşturmak ve Kullanmak.md",
+    "Development/React/1 - Componentler/3 - Componentlerde Değişken Render Etmek.md",
+    "Development/React/1 - Componentler/4 - Koşullu Render İşlemi.md"
   ]
 }
