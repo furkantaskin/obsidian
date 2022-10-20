@@ -2,3 +2,7 @@
   background-color: transparent !important;
   color: #c7254e !important;
 }
+
+.markdown-rendered p>code, .cm-s-obsidian span.cm-inline-code{
+  color: var(--code-tag);
+}

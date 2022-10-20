@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0da24b721461e2d",
+        "id": "7da62a65b91df911",
         "type": "tabs",
         "children": [
           {
-            "id": "bdaacf91e5552e74",
+            "id": "e34555ff2b41251a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+                "file": "Development/React/3 - States/1 - State Nedir ve Nasıl Oluşturulur.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "607b4647bdd1e082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/React/3 - States/1 - State Nedir ve Nasıl Oluşturulur.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+                "file": "Development/React/3 - States/1 - State Nedir ve Nasıl Oluşturulur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+                "file": "Development/React/3 - States/1 - State Nedir ve Nasıl Oluşturulur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,16 +134,6 @@
             }
           },
           {
-            "id": "a175c1e5219722e5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md"
-              }
-            }
-          },
-          {
             "id": "927b07155b8f4456",
             "type": "leaf",
             "state": {
@@ -140,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bdaacf91e5552e74",
+  "active": "607b4647bdd1e082",
   "lastOpenFiles": [
-    "Development/JS/Giriş.md",
+    "Development/React/1 - React Dom ve Virtual Dom.md",
+    "Development/React/3 - States/2 - Array States.md",
+    "Development/React/3 - States/1 - State Nedir ve Nasıl Oluşturulur.md",
+    "Development/JS/Javascript.info/JS Temelleri/JavaScript Temelleri.md",
     "Development/React/2 - Props/2 - Döngülerde Key Prop'u.md",
+    "Development/React/2 - Props/3 - Prop Types.md",
+    "Development/JS/Giriş.md",
     "^9c8c5e.md",
     "Development/React/2 - Props/1 - Props Nedir.md",
-    "Development/JS/Javascript.info/JS Temelleri/JavaScript Temelleri.md",
-    "Development/JS/Javascript.info/JS Temelleri/Fonksiyonlar.md",
-    "Development/React/1 - Componentler/1- Component Nedir.md",
-    "Development/React/1 - Componentler/2 - Component Oluşturmak ve Kullanmak.md",
-    "Development/React/1 - Componentler/3 - Componentlerde Değişken Render Etmek.md",
-    "Development/React/1 - Componentler/4 - Koşullu Render İşlemi.md"
+    "Development/JS/Javascript.info/JS Temelleri/Fonksiyonlar.md"
   ]
 }
