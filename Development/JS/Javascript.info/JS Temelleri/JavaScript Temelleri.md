@@ -13,7 +13,7 @@
 <br> 
 
 # Temel Yapılar
-JavaScript içinde 8 farklı değişken tipi vardır. Bunlar `number, bigInt, string, boolean, null, undefined, object, symbol` şeklindedir. Tanımladığımız değişkenin tipini `typeof()` fonksiyonu ile öğrenebiliriz.
+JavaScript içinde 8 farklı değişken tipi vardır. Bunlar `number, bigInt, string, boolean, null, undefined, object, symbol` şeklindedir. Tanımladığımız değişkenin tipini `typeof()` fonksiyonu ile öğrenebiliriz. ^d50320
 
 Değişkenleri string içinde göstermek için ters tırnak kullanabiliriz
 
